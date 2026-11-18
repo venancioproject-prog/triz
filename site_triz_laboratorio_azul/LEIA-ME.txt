@@ -1,0 +1,29 @@
+PACOTE DO SITE | TRIZ + LABORATÓRIO AZUL
+
+O QUE ESTÁ AQUI
+• index.html: página principal do site.
+• images/IMG_8675.PNG: nova fotografia de abertura, exibida inteira e com proporção preservada.
+• privacidade.html: política de privacidade, com links na página principal.
+
+PUBLICAÇÃO RÁPIDA NA NETLIFY
+1. Acesse https://app.netlify.com/ e entre ou crie uma conta.
+2. No painel, escolha Add new site e depois Deploy manually (ou abra https://app.netlify.com/drop/).
+3. Descompacte este ZIP no computador.
+4. Arraste a pasta site_triz_laboratorio_azul para a área de publicação da Netlify. Se a interface pedir uma pasta de publicação, selecione a pasta que contém diretamente o index.html.
+5. A Netlify publicará o site e fornecerá um endereço temporário terminado em netlify.app.
+
+DOMÍNIO PRÓPRIO
+1. Na Netlify, abra Site configuration / Domain management.
+2. Escolha Add a domain e informe o domínio comprado.
+3. Siga as instruções apresentadas pela Netlify para apontar o DNS no local onde o domínio foi comprado. A propagação pode levar algum tempo.
+
+ANTES DE DIVULGAR, ATENÇÃO
+• A política foi preparada sem nome ou e-mail de contato, conforme solicitado. Ao conectar o Google Forms, confira os campos reais, as condições de tratamento e de transferência internacional e os critérios de conservação para manter o texto correspondente ao formulário.
+• O botão “Inscrever-se” do Laboratório Azul abre o Google Forms em uma nova aba. A opção de inscrição na abertura de processo TRIZ foi removida.
+• Confirme horário, data e demais informações práticas antes da publicação.
+• O endereço e os links do M8TRIARCH já estão inseridos na página.
+
+PARA EDITAR O FORMULÁRIO
+No arquivo index.html, procure pelo link docs.google.com/forms no botão “Inscrever-se” e substitua pelo novo URL, se necessário.
+
+Não é necessário instalar programas ou frameworks. É um site estático em HTML e imagem.
