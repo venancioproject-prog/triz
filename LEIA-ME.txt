@@ -2,7 +2,8 @@ PACOTE DO SITE | TRIZ + LABORATÓRIO AZUL
 
 O QUE ESTÁ AQUI
 • index.html: página principal do site.
-• images/IMG_8675.PNG: nova fotografia de abertura, exibida inteira e com proporção preservada.
+• images/triz-capa-640.webp e images/triz-capa-1200.webp: versões leves da capa, selecionadas conforme a tela e exibidas inteiras.
+• images/IMG_8675.PNG: fotografia original preservada; não é carregada pela página.
 • privacidade.html: política de privacidade, com links na página principal.
 
 PUBLICAÇÃO RÁPIDA NA NETLIFY
